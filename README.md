@@ -1,4 +1,4 @@
-Rachel Fenichel's 2026 master's thesis on CS Education for BVI Students
+Rachel Fenichel's 2026 master's thesis on [CS Education for BVI Students](CS-Education-for-BVI-Students.pdf) at San Francisco State University.
 
 **Abstract**: Block-based programming environments are commonly used in early computer science
 education, but present accessibility barriers to students with visual impairments. Researchers
